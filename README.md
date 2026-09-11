@@ -36,13 +36,6 @@
 - **[organo-app](https://github.com/yurifernandes06/organo-app)** — CRUD de colaboradores organizados por times, feito em React.
 - **[valorant-app](https://github.com/yurifernandes06/valorant-app)** — aplicação em Next.js + TypeScript que consome a API pública do Valorant para exibir agentes, mapas e skins.
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yurifernandes06&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifernandes06&layout=compact&hide_border=true" />
-</p>
-
 ### 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/yuri-fernandesfl-dev/)
