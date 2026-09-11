@@ -1,3 +1,3 @@
-Front-end dev @ NPRO | Ciência da Computação (6º período)
+Developer @ NPRO | Computer Science student (6th semester)
 
 [LinkedIn](https://www.linkedin.com/in/yuri-fernandesfl-dev/)
