@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá, eu sou o Yuri 👋
 
-<!--
-**yurifernandes06/yurifernandes06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor com experiência em **TypeScript, React, Next.js e Node.js**.
+Atualmente trabalho na **NPRO** e curso o 6º período de Ciência da Computação.
 
-Here are some ideas to get you started:
+💻 Trabalhando com **TypeScript · React · Next.js · Node.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 Atualmente na **NPRO**
+
+🎓 Cursando Ciência da Computação (6º período)
+
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/yuri-fernandesfl-dev/)
+
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>p>
